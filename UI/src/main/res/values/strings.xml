@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather Challenge</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="city_list_menu_title">City List</string>
+    <string name="city_list_title">City List</string>
+    <string name="my_location">My Location</string>
+
+    <string name="tv_temperature_format">%1$d°F</string>
+    <string name="tv_wind_speed_format">Wind: %1$.2f m/s</string>
+    <string name="tv_humidity_format">Humidity: %1$d %%</string>
+    <string name="tv_pressure_format">Pressure: %1$.2f hPa</string>
+
+    <string name="tv_last_update_format">Last update: %1$s</string>
+
+    <string name="permission_fine_location_details_message">The application needs to know its location to detect your latitude and longitude.</string>
+</resources>
